@@ -1,0 +1,10 @@
+[package]
+name = "auto_login"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+regex = "1.10.5"
+reqwest = "0.12.5"
+tokio = { version = "1.38.0", features = [ "full" ] }
+winrt-notification = "0.5.1"
