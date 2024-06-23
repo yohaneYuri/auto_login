@@ -11,6 +11,6 @@ Win+R，输入shell:common startup可以快速找到目录
 
 ### 依赖库
 [tokio](https://github.com/tokio-rs/tokio)  
-[reqwest](https://github.com/seanmonstar/reqwest)
-[winrt-notification](https://github.com/allenbenz/winrt-notification)
-[regex](https://github.com/rust-lang/regex)
+[reqwest](https://github.com/seanmonstar/reqwest)  
+[winrt-notification](https://github.com/allenbenz/winrt-notification)  
+[regex](https://github.com/rust-lang/regex)  
